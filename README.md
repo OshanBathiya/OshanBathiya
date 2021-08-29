@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @OshanBathiya IT20245238
+- 👋 Hi, I’m @OshanBathiya 
+- My SLIIT Registration Number -IT20245238
 <!---
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
